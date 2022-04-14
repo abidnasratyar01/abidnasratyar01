@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AhmadAbid
 - 👀 I’m interested in Solving any thing that may be helpful to any individual
-- 🌱 I’m currently learning web Development and Image Processing
-- 💞️ I’m looking to collaborate on Machine Learning
+- 🌱 I’m currently working as an Associate Software Engineer in Rolustech Lahore.
 - 📫 You can reach me at my email abidnasratyar01@gmail.com
 
 <!---
