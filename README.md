@@ -79,10 +79,10 @@ I'm a **Senior Software Engineer** with **5+ years** of experience designing and
 
 <p align="center">
   <a href="https://github.com/abidnasratyar01">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=abidnasratyar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Ahmad's GitHub stats" />
+    <img height="170" src="https://github-readme-stats-one-beryl.vercel.app/api?username=abidnasratyar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ahmad's GitHub stats" />
   </a>
   <a href="https://github.com/abidnasratyar01">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidnasratyar01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats-one-beryl.vercel.app/api/top-langs/?username=abidnasratyar01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
