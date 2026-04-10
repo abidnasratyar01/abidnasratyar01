@@ -16,13 +16,13 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer** with **5+ years** of experience designing and shipping enterprise-grade software. I currently architect and build **ERP platforms, MIS dashboards, and modern web applications** that help businesses scale with confidence.
+I'm a **Senior Software Engineer** with **5+ years** of experience designing and shipping enterprise grade software. I currently architect and build **ERP platforms, MIS dashboards, and modern web applications** that help businesses scale with confidence.
 
 - 🔭 Currently building **ERP & MIS systems** with clean architecture in mind
 - 🌱 Deepening my expertise in **Rust, distributed systems, and cybersecurity**
 - 💡 I turn ambiguity into clarity, and clarity into shipped, maintainable software
 - 🤝 Open to collaborating on **scalable backends, fintech, and SaaS products**
-- ⚡ Fun fact: *Kabul born coder. Agile at heart. Builder of clean, step-by-step systems.*
+- ⚡ Fun fact: *Kabul born coder. Agile at heart. Builder of clean, step by step systems.*
 
 ---
 
@@ -66,10 +66,10 @@ I'm a **Senior Software Engineer** with **5+ years** of experience designing and
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🏢 Enterprise ERP Suite** | Modular ERP covering HR, finance, inventory & procurement for mid-size businesses. | `Spring Boot` `React` `PostgreSQL` |
-| **📊 MIS Analytics Platform** | Real-time management information system with role-based dashboards & reporting. | `Laravel` `Next.js` `MySQL` |
-| **📱 Cross-Platform Mobile App** | Field-ops mobile app with offline-first sync and secure auth. | `Flutter` `Node.js` `Firebase` |
-| **🔐 Secure API Gateway** | High-throughput API gateway with JWT, rate-limiting & audit logging. | `Rust` `Redis` `Docker` |
+| **🏢 Enterprise ERP Suite** | Modular ERP covering HR, finance, inventory & procurement for mid size businesses. | `Spring Boot` `React` `PostgreSQL` |
+| **📊 MIS Analytics Platform** | Real time management information system with role based dashboards & reporting. | `Laravel` `Next.js` `MySQL` |
+| **📱 Cross Platform Mobile App** | Field ops mobile app with offline first sync and secure auth. | `Flutter` `Node.js` `Firebase` |
+| **🔐 Secure API Gateway** | High throughput API gateway with JWT, rate limiting & audit logging. | `Rust` `Redis` `Docker` |
 
 > 📂 Explore more on my [repositories page](https://github.com/abidnasratyar01?tab=repositories).
 
@@ -78,8 +78,12 @@ I'm a **Senior Software Engineer** with **5+ years** of experience designing and
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abidnasratyar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidnasratyar01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <a href="https://github.com/abidnasratyar01">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=abidnasratyar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Ahmad's GitHub stats" />
+  </a>
+  <a href="https://github.com/abidnasratyar01">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidnasratyar01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
@@ -96,7 +100,7 @@ I'm a **Senior Software Engineer** with **5+ years** of experience designing and
 
 - **Clean Architecture** — code that's easy to read today and easy to change tomorrow
 - **Scalable Systems** — designs that grow gracefully from MVP to enterprise
-- **Cybersecurity** — secure-by-default thinking baked into every layer
+- **Cybersecurity** — secure by default  thinking baked into every layer
 - **Mentorship & Collaboration** — shipping great software is a team sport
 
 ---
