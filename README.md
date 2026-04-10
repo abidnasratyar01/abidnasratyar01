@@ -91,7 +91,7 @@ I'm a **Senior Software Engineer** with **5+ years** of experience designing and
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abidnasratyar01&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://profile-trophy.vercel.app/?username=abidnasratyar01&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
